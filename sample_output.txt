@@ -1,0 +1,40 @@
+--- 2026-10-06 17:33:33 ---
+               total        used        free      shared  buff/cache   available
+Mem:           952Mi       161Mi       325Mi       2.0Mi       465Mi       639Mi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs            96M  2.3M   93M   3% /run
+/dev/sda1       9.6G  2.0G  7.6G  21% /
+tmpfs           477M     0  477M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs            96M  4.0K   96M   1% /run/user/1000
+ 17:33:33 up 49 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+--- 2026-10-06 17:33:38 ---
+               total        used        free      shared  buff/cache   available
+Mem:           952Mi       161Mi       325Mi       2.0Mi       465Mi       639Mi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs            96M  2.3M   93M   3% /run
+/dev/sda1       9.6G  2.0G  7.6G  21% /
+tmpfs           477M     0  477M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs            96M  4.0K   96M   1% /run/user/1000
+ 17:33:38 up 49 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+--- 2026-10-06 17:33:43 ---
+               total        used        free      shared  buff/cache   available
+Mem:           952Mi       161Mi       325Mi       2.0Mi       465Mi       639Mi
+Swap:             0B          0B          0B
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs            96M  2.3M   93M   3% /run
+/dev/sda1       9.6G  2.0G  7.6G  21% /
+tmpfs           477M     0  477M   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+/dev/sda15      105M  6.1M   99M   6% /boot/efi
+tmpfs            96M  4.0K   96M   1% /run/user/1000
+ 17:33:43 up 49 min,  1 user,  load average: 0.00, 0.00, 0.00
+
+--- 2026-10-06 17:33:45 мониторинг остановлен ---
