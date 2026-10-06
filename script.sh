@@ -4,7 +4,7 @@
 # с отметкой времени. Остановить: Ctrl+C.
 
 INTERVAL=5
-LOG_FILE="$(dirname "$0")/monitor.log"
+LOG_FILE="${LOG_FILE:-$(dirname "$0")/monitor.log}"
 
 # проверяем, что нужные команды есть в системе
 for cmd in free df uptime; do
